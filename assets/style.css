@@ -106,6 +106,10 @@ img {
     
   }
 
-
-    
-  
+img aboutme.html{
+  width: 120px;
+    height: 120px;
+    margin-left: 31%;
+    margin-top: -65px;
+    border-radius: 15px;
+}
